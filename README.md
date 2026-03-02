@@ -9,9 +9,9 @@ Currently:
 - 🎯 Expanding skills through real projects and documentation websites
 
 ## 🛠️ Tech Stack
-- **Languages:** JavaScript, Python, C, C++
+- **Languages:** JavaScript, Python, C, C++, Java
 - **Web:** HTML, CSS, Bootstrap
-- **Tools:** Git & GitHub, VS Code
+- **Tools:** Git & GitHub, VS Code, INTELIJ, Android Studio
 - **Currently Learning:** Backend development and software architecture
 
 ## 🚀 Projects
