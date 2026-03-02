@@ -29,8 +29,8 @@ More projects coming as I improve my skills!
 
 ## 📫 Contact
 - 🌐 Website: https://torcato-lopes.com
-- 📧 Email: (add your email if you want)
-- 🟦 LinkedIn: (your LinkedIn profile)
+- 📧 Email: tdlopes95@gmail.com
+- 🟦 LinkedIn: https://www.linkedin.com/in/torcato-lopes
 
 ---
 ✨ Always learning. Always coding.
